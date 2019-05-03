@@ -1,0 +1,100 @@
+p.primero {
+  border: 5px solid green;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 8px;
+  margin-left: 8px;
+  
+}
+  
+h3 {
+ 
+  font-size: 15px;
+  color: green
+  
+}
+
+h1 {
+
+ margin: 50 50 20px 30;
+  font-size: 15px;
+  color: Green
+}
+
+
+h2 {
+  font-size: 55px;
+  text-align: center;
+  color: yellow
+}
+
+
+table.cuadros {border-style: dotted;border-style: solid;
+  border-color: red green blue yellow;
+  
+  
+}
+
+
+
+
+  body {
+  background-image: url("https://www.peru.travel/Portals/_default/Images/Slider/Common/quehacer.jpg");
+  background-repeat: no-repeat;
+}
+
+
+div {
+  
+ 	 margin: 100px 100px 100px 100px;
+	}
+
+
+
+	ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: green;
+       }
+
+       li {
+       float: left;
+        border-right:1px solid #bbb;
+      }
+
+       li:last-child {
+       border-right: none;
+      }
+
+       li a {
+       display: block;
+       color: white;
+       text-align: center;
+       padding: 14px 16px;
+       text-decoration: none;
+      }
+
+       li a:hover:not(.active) {
+       background-color:GreenYellow  ;
+      }
+
+      .active {
+       background-color: red;
+
+     }
+
+
+
+#navegador li { margin: 0px 5px; padding: 0.1em 1em 0.5em 1em; 
+           background-color:green; width: 12%;float: left;
+           list-style-type: none; position: relative; }
+
+#subseccion1 { position: absolute; top: 60%; left: 0px;  
+             background-color: gray; font:normal 0.8em arial;  
+             padding: 0.5em 0.5em ; display: none; }
+
+
+
+
